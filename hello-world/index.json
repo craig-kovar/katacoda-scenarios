@@ -18,7 +18,11 @@
     }
   },
   "environment": {
+    "showdashboard": true,
     "uilayout": "editor-terminal"
+    "dashboards": [
+      {"name": "Couchbase UI Console", "port": 8091}
+    ],
   },
   "backend": {
     "imageid": "openjdk:15"

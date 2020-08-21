@@ -19,7 +19,6 @@
   },
   "environment": {
     "showdashboard": true,
-    "showide": true,
     "uilayout": "editor-terminal",
     "dashboards": [
       {"name": "Couchbase UI Console", "port": 8091}
